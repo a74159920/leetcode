@@ -1,0 +1,4 @@
+vector<int> v(n, -1) 可以初始化vector (n個, 全部-1)
+
+deque (double ended queue) push_front/push_back, pop_front/pop_back
+string.substr(pos, len)
